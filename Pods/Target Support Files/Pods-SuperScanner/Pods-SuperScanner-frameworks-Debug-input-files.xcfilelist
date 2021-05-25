@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-SuperScanner/Pods-SuperScanner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CropView/CropView.framework
+${BUILT_PRODUCTS_DIR}/LBXPermission/LBXPermission.framework
+${BUILT_PRODUCTS_DIR}/MMKV/MMKV.framework
+${BUILT_PRODUCTS_DIR}/MMKVCore/MMKVCore.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ObjcExceptionBridging/ObjcExceptionBridging.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/TZImagePickerController/TZImagePickerController.framework
+${BUILT_PRODUCTS_DIR}/WeScan/WeScan.framework
+${BUILT_PRODUCTS_DIR}/XCGLogger/XCGLogger.framework
+${BUILT_PRODUCTS_DIR}/YYText/YYText.framework

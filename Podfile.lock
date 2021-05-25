@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (5.4.3)
+  - CropView (0.1.6)
+  - LBXPermission/Base (1.1.1)
+  - LBXPermission/Camera (1.1.1)
+  - LBXPermission/Microphone (1.1.1)
+  - LBXPermission/Photo (1.1.1)
+  - MMKV (1.2.7):
+    - MMKVCore (~> 1.2.7)
+  - MMKVCore (1.2.7)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - RxSwift (5.1.2)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.1)
+  - TZImagePickerController (3.6.0)
+  - WeScan (1.7.0)
+  - XCGLogger (7.0.1):
+    - XCGLogger/Core (= 7.0.1)
+  - XCGLogger/Core (7.0.1):
+    - ObjcExceptionBridging
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - CropView
+  - LBXPermission/Base
+  - LBXPermission/Camera
+  - LBXPermission/Microphone
+  - LBXPermission/Photo
+  - MMKV
+  - Moya/RxSwift
+  - SnapKit
+  - SwiftyJSON
+  - TZImagePickerController
+  - WeScan
+  - XCGLogger
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CropView
+    - LBXPermission
+    - MMKV
+    - MMKVCore
+    - Moya
+    - ObjcExceptionBridging
+    - RxSwift
+    - SnapKit
+    - SwiftyJSON
+    - TZImagePickerController
+    - WeScan
+    - XCGLogger
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  CropView: 2fad8340e54f433fd68a112a27007a4be4f580d0
+  LBXPermission: e7f860ce1280599fc196a8c5dee713cbb81354d4
+  MMKV: 22e5136f7d00197bc0fc9694b7f71519f0d1ca12
+  MMKVCore: 607b7b05f2c2140056b5d338e45f2c14bf3f4232
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  TZImagePickerController: a37d7eec87c54436e896a67947033ad2178d498b
+  WeScan: fed582f6c38014d529afb5aa9ffd1bad38fc72b7
+  XCGLogger: 1943831ef907df55108b0b18657953f868de973b
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 7b1943c384ac139023fb414db3c70a690cf0c05a
+
+COCOAPODS: 1.10.1
